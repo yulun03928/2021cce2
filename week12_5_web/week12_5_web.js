@@ -18,11 +18,11 @@ function draw() {
         rect(50, 150, 150, 2);
     if (choice == 3)
         rect(50, 200, 150, 2);
-    text("Choice 1", 50, 50);
-    text("Choice 2", 50, 100);
-    text("Choice 3", 50, 150);
-    text("Choice 4", 50, 200);
-    text("Choice 5", 50, 250);
+    text("牛排", 50, 50);
+    text("炒飯", 50, 100);
+    text("雞肉飯", 50, 150);
+    text("飯糰", 50, 200);
+    text("永和豆漿", 50, 250);
     
 }
 
